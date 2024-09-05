@@ -11,6 +11,10 @@
 
 <img src="https://github.com/j1mmyto9/unity-mobile-dialog-popup-native/blob/main/Img/AndroidDate.png"><img src="https://github.com/j1mmyto9/unity-mobile-dialog-popup-native/blob/main/Img/iOSDate.png">
 
+## Installation
+1. Download `native-dialog\Assets\Plugins\`, import both `Android` and `iOS` to your project's `Plugins` folder.
+2. Download `native-dialog\Assets\MobileNative\`, import `MobileNative` to any folder under your project's `Assets`.
+
 ## Easy access from Unity
 Welcome to Native Popups for iOS and Android! This plugin provides easy access from Unity to the native functionality of iOS and Android for displaying popups
 ```csharp
